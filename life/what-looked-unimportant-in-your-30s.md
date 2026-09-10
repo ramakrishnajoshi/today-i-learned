@@ -3,6 +3,14 @@
 **Source:** [Reddit — r/AskReddit](https://www.reddit.com/r/AskReddit/s/dlXC2leOme)  
 **Question:** *What looked unimportant in your 30s but turned out to matter enormously?*
 
+## Memorable
+
+- **Don't confuse "not urgent" with "not important."**
+- **The things that matter most later are often the things that feel easiest to postpone today.**
+- **Start early. Be consistent. Take care of your health, money and relationships before they become urgent.**
+
+---
+
 ## The big picture
 
 The thread is a collection of things people didn't take seriously enough in their 30s, only to realize later that these things had much bigger long-term consequences than expected.
