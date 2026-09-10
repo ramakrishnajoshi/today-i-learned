@@ -39,3 +39,13 @@ A senior person shouldn't merely complete difficult tasks. Their involvement sho
 > **Don't postpone family time until life becomes less busy.**
 
 ---
+
+## Principles & Quotes
+
+### Critical Thinking
+
+> **The onus of proof lies on the one making the claim.**
+
+Don't accept a claim merely because someone asks you to disprove it. The person making the claim has the responsibility to provide evidence for it.
+
+---
