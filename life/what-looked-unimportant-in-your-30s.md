@@ -3,6 +3,8 @@
 **Source:** [Reddit — r/AskReddit](https://www.reddit.com/r/AskReddit/s/dlXC2leOme)  
 **Question:** *What looked unimportant in your 30s but turned out to matter enormously?*
 
+---
+
 ## Memorable
 
 - **Don't confuse "not urgent" with "not important."**
