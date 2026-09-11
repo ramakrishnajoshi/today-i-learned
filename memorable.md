@@ -26,6 +26,8 @@ A senior person shouldn't merely complete difficult tasks. Their involvement sho
 
 > **Don't just bring problems upward. Bring analysis, options and recommendations.**
 
+> A slow company only slows you down if you depend on others to steer your career. If you wait for people to hand you opportunities, a relaxed environment will make you passive. If you are self-motivated, you create your own ceiling.
+
 ---
 
 ## Money
@@ -48,4 +50,4 @@ A senior person shouldn't merely complete difficult tasks. Their involvement sho
 
 Don't accept a claim merely because someone asks you to disprove it. The person making the claim has the responsibility to provide evidence for it.
 
----
+--- 
