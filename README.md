@@ -1,45 +1,201 @@
 # Today I Learned (TIL) 🧠
 
-Welcome to my personal engineering journal. This repository serves as a self-curated, highly modular knowledge base where I document deep-dive technical insights, edge cases, root-cause analyses, and structural engineering patterns discovered during my daily work and research.
+My personal knowledge notebook — a place to capture things I learn, discover, or find interesting enough to revisit later.
 
-As an Android Engineer working within large-scale enterprise environments, I use this space to maintain a tight feedback loop between execution and theory—covering core platform architecture, system design constraints, and modern AI/LLM engineering failure modes.
+This repository is intentionally broad. It contains everything from deep technical notes and AI experiments to career lessons, life learnings, interesting Reddit discussions, and memorable ideas I don't want to forget.
 
----
+The goal isn't to build a perfectly organized knowledge base.
 
-## 📂 Repository Index
+The goal is simple:
 
-### 📱 Android Deep Dives & Platform Internals
-*Comprehensive deep dives into the Android OS, concurrency models, rendering pipelines, and memory optimization.*
-*   [Jetpack Compose Recomposition Optimization](android/compose-recomposition.md) — *Analyzing structural stability and positional memoization.*
-*   [Kotlin Coroutines Under the Hood](android/coroutines-internals.md) — *State machine transformations and thread suspension mechanics.*
-*   [Memory Leak Isolation](android/leakcanary-analysis.md) — *Root-causing anonymous inner classes and lifecycle-bound reference leaks.*
-
-### 🏗️ Mobile & Distributed System Design
-*High-level architectural patterns for building scalable, offline-first, and highly performant systems.*
-*   [Offline-First Sync Engine Architecture](system-design/offline-sync.md) — *Handling conflict resolution, exponential backoff, and local persistence.*
-*   [Telemetry & Analytics Ingestion Pipelines](system-design/telemetry-pipeline.md) — *Designing non-blocking client-side batching mechanisms.*
-
-### 🤖 Generative AI & LLM Systems Engineering
-*Documenting behavioral biases, prompt optimization, and failure modes in autonomous agent workflows.*
-*   [The "You're Absolutely Right" Trap (Sycophancy Bias)](ai-engineering/llm-sycophancy-trap.md) — *Root-causing context window contamination and auto-regressive apology loops.*
-*   [System Prompt Hardening Guidelines](ai-engineering/prompt-hardening.md) — *Architectural strategies to override RLHF compliance defaults.*
+> **Learn → Capture → Revisit → Remember**
 
 ---
 
-## 🛠️ Formatting Methodology
+## 📂 Repository Structure
 
-Every entry in this repository avoids passive high-level summaries and strictly follows a production-grade diagnostic framework:
-1.  **The Context/Problem:** What is the specific error, bottleneck, or structural behavior?
-2.  **The Root Cause:** What are the underlying mechanics (compilation steps, mathematical constraints, or framework designs) causing it?
-3.  **The Code/Architectural Example:** A minimal, isolated reproduction of the issue or pattern.
-4.  **The Mitigation:** Production-ready strategies, guardrails, or code changes to eliminate the problem.
+### 💼 Career
+
+Things that help me become a better engineer, teammate, and future leader.
+
+- `career/leadership/` — Leadership, management, influence, communication
+- `career/engineering/` — Engineering practices, career growth, software development
+- `career/interviews/` — Interview preparation, DSA, system design, LLD/HLD
+- `career/workplace/` — Workplace lessons and observations
+- `career/0-one-liners.md` — Short career and engineering ideas worth remembering
+
+### 💻 Technology
+
+Technical knowledge and engineering deep dives.
+
+- `technology/android/` — Android, Jetpack Compose, Kotlin, platform internals
+- `technology/ai/` — AI, LLMs, agents, AI-assisted development
+- `technology/system-design/` — Architecture and distributed systems
+- `technology/other/` — Other technologies and engineering concepts
+
+### 🌱 Life
+
+Lessons about living better and thinking better.
+
+- `life/health/` — Health, fitness, sleep, nutrition
+- `life/finance/` — Personal finance and money
+- `life/relationships/` — Relationships, family, friendships
+- `life/general/` — General life lessons and observations
+
+### ⭐ Memorable
+
+`memorable.md`
+
+The highest-signal ideas from everything I read and learn.
+
+These are the sentences, principles, mental models, and observations that I want to encounter again during my monthly review.
+
+Examples:
+
+> **Don't confuse "not urgent" with "not important."**
+
+> **Your manager's cognitive load should decrease because you're involved, not increase.**
+
+> **The onus of proof lies on the one making the claim.**
+
+This file is intentionally kept small and high-signal.
+
+### 📚 Books
+
+Notes, insights, and memorable ideas from books.
+
+### 🌐 Reddit
+
+Interesting Reddit discussions that are worth preserving.
+
+Reddit is treated primarily as a **source**, not necessarily as the category of the learning. When a Reddit discussion is about leadership, for example, it belongs under `career/leadership/`.
+
+### 🔄 Reviews
+
+Monthly reviews of what I've learned and what I want to remember or act on.
 
 ---
 
-## 📈 Continuous Growth Tracker
-*   **Active Focus Areas (2026):** Advanced Jetpack Compose Internals, Kotlin Multiplatform (KMP) Memory Management, and Multi-Agent Critic Frameworks.
-*   **Total Logged Insights:** *[Update dynamically as you add files]*
+## ✍️ What Goes Into This Repository?
+
+Not every note follows the same format.
+
+### Technical learning
+
+Technical notes may include:
+
+- Context / Problem
+- How it works
+- Root cause
+- Example
+- Trade-offs
+- Mitigation
+- References
+
+### Career and life learning
+
+These are generally more focused on:
+
+- The idea
+- Why it matters
+- Examples
+- What I want to remember
+- Personal takeaway
+
+### Reddit discussions
+
+Reddit notes capture useful discussions while preserving the source.
+
+Depending on the post, a note may contain:
+
+- A synthesized summary
+- Selected original excerpts
+- Memorable ideas
+- Personal takeaways
 
 ---
-*Feel free to explore the directories. If you find an insight helpful or notice room for correction, pull requests and discussions are always welcome!*
 
+## ⭐ Memorable Ideas
+
+`memorable.md` is different from the rest of the repository.
+
+Most notes answer:
+
+> **What did I learn?**
+
+`memorable.md` answers:
+
+> **What do I absolutely not want to forget?**
+
+A note can be 500 lines long.
+
+`memorable.md` should not be.
+
+The intention is to keep only the highest-signal ideas that are worth revisiting repeatedly.
+
+---
+
+## 🔄 Monthly Review
+
+I periodically review the repository to avoid turning it into a collection of things I learned once and then forgot.
+
+The monthly review focuses on:
+
+1. Re-reading `memorable.md`
+2. Reviewing recent notes
+3. Promoting exceptional ideas into `memorable.md`
+4. Identifying things worth acting on
+5. Removing or consolidating redundant notes
+
+---
+
+## 🧭 Guiding Principle
+
+This repository is a **notepad, not a textbook**.
+
+Notes can be incomplete.
+
+Notes can evolve.
+
+Some will be deeply technical.
+
+Others may be a single sentence.
+
+The important thing is that they capture something worth remembering.
+
+> **Don't optimize the notebook so much that you stop using it.**
+
+---
+
+## 🔖 Naming Convention
+
+Use descriptive, human-readable filenames.
+
+Prefer:
+
+`how-managers-identify-leadership-potential.md`
+
+over:
+
+`reddit-post-123.md`
+
+The filename should describe **what the note is about**, while the note itself records where it came from.
+
+---
+
+## 🔗 Sources
+
+When a learning comes from somewhere else, keep the source in the note whenever practical:
+
+- Reddit
+- Blog posts
+- Documentation
+- Books
+- Talks
+- Videos
+- Conversations
+- Personal experiments
+
+---
+
+*This is my personal TIL notebook — built to help me remember what I learn, not just collect it.*
