@@ -26,7 +26,27 @@ A senior person shouldn't merely complete difficult tasks. Their involvement sho
 
 > **Don't just bring problems upward. Bring analysis, options and recommendations.**
 
+---
+
 > A slow company only slows you down if you depend on others to steer your career. If you wait for people to hand you opportunities, a relaxed environment will make you passive. If you are self-motivated, you create your own ceiling.
+
+---
+
+> **What would make me better at my current job in 6 months?**
+
+Instead of constantly chasing the next trending technology, ask what would make me substantially better at the work I already do.
+
+---
+
+> **AI should increase your implementation speed without decreasing your understanding.**
+
+Don't let AI turn you into someone who can produce code faster but explain it less well.
+
+---
+
+> **Find the problems nobody else wants to touch.**
+
+Technical debt, flaky tests, legacy modules and poorly understood parts of a codebase can become opportunities to create visible value while developing deeper engineering judgment.
 
 ---
 
