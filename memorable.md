@@ -54,6 +54,10 @@ Technical debt, flaky tests, legacy modules and poorly understood parts of a cod
 
 ---
 
+- **Accountability as a Moat in the AI Era:** Enterprise organizations require human professionals in the loop primarily to manage operational risk, hold judgment, and bear legal/business responsibility when systems fail—a role automated subscriptions cannot fulfill. ([Source](technology/ai-coding-agents-career-impact.md))
+
+---
+
 ## Money
 
 > **You can catch up on money later, but you can't buy back decades of compounding.**
@@ -75,3 +79,10 @@ Technical debt, flaky tests, legacy modules and poorly understood parts of a cod
 Don't accept a claim merely because someone asks you to disprove it. The person making the claim has the responsibility to provide evidence for it.
 
 --- 
+
+## Technology
+
+
+> **Agentic Workflow Shift:** Engineering productivity with AI coding agents depends on context hygiene, subagent delegation, and automated session tracking rather than manual syntax execution. ([Source](technology/ai-coding-agents-career-impact.md))
+
+---
