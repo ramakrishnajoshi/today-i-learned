@@ -50,6 +50,10 @@ Technical debt, flaky tests, legacy modules and poorly understood parts of a cod
 
 ---
 
+- **Manager-Employee Trust:** High-performing employees practice a "no surprises" policy—they share both bad news and emerging risks early, bring potential solutions alongside problems, and proactively ask for help reprioritizing when overwhelmed rather than quietly burning out. ([Source](career/employee-green-flags-manager-perspective.md))
+
+---
+
 ## Money
 
 > **You can catch up on money later, but you can't buy back decades of compounding.**
